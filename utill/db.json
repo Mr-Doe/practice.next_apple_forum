@@ -1,0 +1,14 @@
+{
+    "posts" : [
+        {
+            "id" : 1,
+            "title" : "안녕",
+            "content" : "반가워"
+        },
+        {
+            "id" : 2,
+            "title" : "qwfoqwe",
+            "content" : "fqfqwfqwfweb"
+        }
+    ]
+}
