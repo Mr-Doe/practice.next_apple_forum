@@ -1,14 +1,29 @@
 {
-    "posts" : [
-        {
-            "id" : 1,
-            "title" : "안녕",
-            "content" : "반가워"
-        },
-        {
-            "id" : 2,
-            "title" : "qwfoqwe",
-            "content" : "fqfqwfqwfweb"
-        }
-    ]
+  "posts": [
+    {
+      "id": "1",
+      "title": "안녕",
+      "content": "반가워"
+    },
+    {
+      "title": "qwer",
+      "content": "qwerqwer",
+      "id": "2"
+    },
+    {
+      "title": "test",
+      "content": "test",
+      "id": "62b1"
+    },
+    {
+      "id": "2e7f",
+      "title": "ff",
+      "content": "ff"
+    },
+    {
+      "id": "9e9d",
+      "title": "f1f1f1",
+      "content": "f1f1f1"
+    }
+  ]
 }
